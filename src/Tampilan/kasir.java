@@ -6,7 +6,7 @@ import java.awt.event.KeyEvent;
 import koneksi.koneksi;
 /**
  *
- * @author bojas
+ * @author Firdaus Jibar Inmasa
  */
 public class kasir extends javax.swing.JFrame {
 private Connection conn = new koneksi().connect();
